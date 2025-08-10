@@ -203,5 +203,3 @@ generated_project/
 - Security vulnerability scanning
 
 ---
-
-*Built with ❤️ by the AI Software Development Team*
